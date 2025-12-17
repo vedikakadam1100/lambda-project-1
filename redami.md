@@ -101,8 +101,9 @@ Paste the URL into the address bar and press Enter.
 
 
 # web page 
-After opening the Function URL in the browser, the website I created will appear — with titles like Lambda’s Vedika and Lambda’s Sakshi.
+After opening the Function URL in the browser, the website I created will appear — with titles like Lambda’s Aniket and Lambda’s Aniket.
 I also added my Instagram profile there, so that link will be visible as well
+
 
 
 
